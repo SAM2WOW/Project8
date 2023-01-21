@@ -70,3 +70,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Don't ignore plugin folder
+!Plugin/*
