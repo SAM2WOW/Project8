@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodanimnotifyplay.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotify.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animnotifyqueue.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animtypes.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animlinkableelement.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animlinkableelement.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animenums.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animenums.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintfunctionlibrary.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintfunctionlibrary.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\uobject\\ue5releasestreamobjectversion.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\uobject\\devobjectversion.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animtypes.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animnodemessages.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotifyqueue.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotify.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodevent.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodevent.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FMODSTUDIO_FMODAssetLookup_generated_h
 
-#define FID_jk_workspace_Build__2_2__Unreal_Win_integrations_UE4_temp_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h_12_GENERATED_BODY \
+#define FID_Unreal_Projects_Project8_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODAssetLookupRow_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -23,7 +23,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODAssetLookupRow>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_jk_workspace_Build__2_2__Unreal_Win_integrations_UE4_temp_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h
+#define CURRENT_FILE_ID FID_Unreal_Projects_Project8_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

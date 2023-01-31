@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodevent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodevent.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodevent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

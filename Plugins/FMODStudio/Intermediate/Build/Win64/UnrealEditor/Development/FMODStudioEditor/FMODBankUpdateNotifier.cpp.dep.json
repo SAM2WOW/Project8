@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodbankupdatenotifier.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodbankupdatenotifier.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsettings.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_common.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_codec.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp_effects.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_output.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsettings.generated.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\hal\\filemanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodvca.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodvca.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodvca.generated.h",
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

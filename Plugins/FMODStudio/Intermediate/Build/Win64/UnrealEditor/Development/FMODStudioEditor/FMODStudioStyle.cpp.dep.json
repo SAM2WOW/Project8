@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\styling\\styledefaults.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatenoresource.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\styling\\islatestyle.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateborderbrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateboxbrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatecolorbrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateimagebrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatedynamicimagebrush.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\editor\\editorstyle\\public\\editorstyleset.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\styling\\appstyle.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\editor\\editorstyle\\public\\interfaces\\ieditorstylemodule.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

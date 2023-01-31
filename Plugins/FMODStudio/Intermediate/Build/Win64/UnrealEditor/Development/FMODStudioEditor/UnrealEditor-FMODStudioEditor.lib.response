@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.gen.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODGenerateAssetsCommandlet.gen.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODStudioEditor.init.gen.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODAssetBuilder.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODAudioComponentVisualizer.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODBankUpdateNotifier.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventEditor.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODGenerateAssetsCommandlet.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODSettingsCustomization.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODStudioEditorModule.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODStudioStyle.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\SFMODEventEditorPanel.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODChannelEditors.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventControlTrackEditor.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODParameterSection.cpp.obj"
+"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\Default.rc2.res"
+/OUT:"F:\Unreal Projects\Project8\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\UnrealEditor-FMODStudioEditor.lib"

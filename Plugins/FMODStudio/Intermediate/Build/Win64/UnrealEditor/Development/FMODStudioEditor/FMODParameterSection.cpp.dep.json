@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\project8\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.h",
+            "f:\\epic games\\ue_5.1\\engine\\source\\runtime\\moviescenetracks\\public\\sections\\moviesceneparametersection.h",
+            "f:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescenetracks\\uht\\moviesceneparametersection.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
