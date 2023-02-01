@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\project\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodbanklookup.h",
+            "d:\\project\\tools\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\project\\tools\\ue_5.1\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\project\\tools\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\datatable.generated.h",
+            "d:\\project\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodbanklookup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

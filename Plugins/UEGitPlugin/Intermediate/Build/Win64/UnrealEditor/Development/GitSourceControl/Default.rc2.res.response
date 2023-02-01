@@ -2,7 +2,7 @@
 /D_WIN64
 /l 0x409
 /I "."
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
@@ -67,7 +67,9 @@
 /DBUILT_FROM_CHANGELIST=23058290
 /DBUILD_VERSION=++UE5+Release-5.1-CL-23058290
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_IDENTIFIER=PluginBuilding
-/fo "F:\Unreal Projects\PluginBuilding\Plugins\UEGitPlugin\Intermediate\Build\Win64\UnrealEditor\Development\GitSourceControl\Default.rc2.res"
+/DPROJECT_COMPANY_NAME="8% Studio"
+/DPROJECT_COPYRIGHT_STRING="(c) 2023 8% Studio"
+/DPROJECT_PRODUCT_NAME="Project 8"
+/DPROJECT_PRODUCT_IDENTIFIER=Project8
+/fo "D:\Project\Project8\Plugins\UEGitPlugin\Intermediate\Build\Win64\UnrealEditor\Development\GitSourceControl\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

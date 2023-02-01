@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsnapshotreverb.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\project\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsnapshotreverb.h",
+            "d:\\project\\project8\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "d:\\project\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "d:\\project\\tools\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\sound\\reverbeffect.h",
+            "d:\\project\\tools\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\reverbeffect.generated.h",
+            "d:\\project\\project8\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
