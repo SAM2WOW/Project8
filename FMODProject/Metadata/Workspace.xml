@@ -2,9 +2,8 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{11694336-d940-4091-ba89-baef15ff3a21}">
 		<property name="builtBanksOutputDirectory">
-			<value>F:/Unreal Projects/Project8/Content/Resources/FMOD</value>
+			<value>../Content/Resources/FMOD</value>
 		</property>
-		<property name="builtBanksEncryptionKey" />
 		<relationship name="masterEventFolder">
 			<destination>{a1386120-1c79-445e-86d2-c0d4905d74eb}</destination>
 		</relationship>
