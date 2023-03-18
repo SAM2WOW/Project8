@@ -167,7 +167,7 @@
 			<value>2.3740816326530614</value>
 		</property>
 		<property name="volume">
-			<value>-14.5</value>
+			<value>-13.5</value>
 		</property>
 		<property name="pitch">
 			<value>-8.5</value>
@@ -182,7 +182,7 @@
 			<destination>{7dba763f-3792-4867-847b-9485912fd109}</destination>
 		</relationship>
 		<relationship name="audioFile">
-			<destination>{85c1173c-da6a-4a77-bfbd-07af13fe40a2}</destination>
+			<destination>{7e948b0e-5ce5-4ac4-b699-e287e30b74a7}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{ad640fff-d342-4f16-b10a-22a052581d0c}">
@@ -322,7 +322,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-24</value>
+			<value>-10</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{da77323f-6aea-427d-a724-e93f98000061}">
@@ -330,7 +330,7 @@
 			<value>1000</value>
 		</property>
 		<property name="value">
-			<value>-8</value>
+			<value>6</value>
 		</property>
 	</object>
 </objects>
