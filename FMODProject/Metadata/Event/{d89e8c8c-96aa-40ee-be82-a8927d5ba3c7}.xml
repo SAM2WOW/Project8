@@ -56,10 +56,17 @@
 			<destination>{25a52d43-7e5c-4301-b596-f2e5061ca8ef}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{13b3f0cb-4498-4c64-a998-f4021125c727}</destination>
+			<destination>{7aa68ded-ad5e-47a5-a7f2-bbf948352342}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{111f7327-42fa-4d95-8118-748c43163172}" />
+	<object class="EventAutomatableProperties" id="{111f7327-42fa-4d95-8118-748c43163172}">
+		<property name="maxVoices">
+			<value>3</value>
+		</property>
+		<property name="maximumDistance">
+			<value>400</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{6ba405a1-608a-4cae-8f88-2bbcc900bdd2}" />
 	<object class="Timeline" id="{e8971ce4-1887-4112-af7f-3202b7668876}">
 		<property name="isProxyEnabled">
@@ -83,8 +90,12 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{043457b8-792e-4516-bdcb-41ef4b043d93}">
+		<property name="playbackMode">
+			<value>1</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{2da42bb7-8b49-4bb4-b9cb-e6f82a8a6a30}</destination>
+			<destination>{2bd49093-35ab-4cc6-a520-8dec9262ccc1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{0fc14bbd-120e-47c5-9348-70fa211a8d00}">
@@ -102,8 +113,31 @@
 	</object>
 	<object class="MixerBusPanner" id="{7cee8c3c-0518-4307-ad3d-96c6dce15295}" />
 	<object class="SingleSound" id="{2da42bb7-8b49-4bb4-b9cb-e6f82a8a6a30}">
+		<property name="volume">
+			<value>-3.5</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{7559f198-e1ec-41e9-9d58-4659c496c194}</destination>
+			<destination>{a37b4f3f-5fc9-40cc-a659-6878bffe693a}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{8192471d-f0d3-4543-baf5-95ec9caab776}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{2bd49093-35ab-4cc6-a520-8dec9262ccc1}">
+		<property name="startOffset">
+			<value>10</value>
+		</property>
+		<property name="volume">
+			<value>-5.5</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{2fa18945-f754-4bbc-b10a-4abf6f3ef78f}</destination>
+			<destination>{8fba1155-0391-44f6-bd75-efbdbcc9e789}</destination>
+			<destination>{fefd2bd9-c69f-4d90-b819-27032eb86f21}</destination>
+		</relationship>
+		<relationship name="audioFile">
+			<destination>{5d3837d9-4cd5-4beb-aff3-e3d76e91896e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{da51a3ae-8a49-4bc1-a654-56d00143968d}" />
@@ -112,6 +146,49 @@
 		<property name="distanceRolloffType">
 			<value>1</value>
 		</property>
+		<property name="maximumDistance">
+			<value>400</value>
+		</property>
 	</object>
 	<object class="SFXReverbEffect" id="{99bee539-c4ac-4dad-b2df-3f4b301e248e}" />
+	<object class="RandomizerModulator" id="{7559f198-e1ec-41e9-9d58-4659c496c194}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>7</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{a37b4f3f-5fc9-40cc-a659-6878bffe693a}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>5.5</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{2fa18945-f754-4bbc-b10a-4abf6f3ef78f}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>7</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{8fba1155-0391-44f6-bd75-efbdbcc9e789}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>10</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{fefd2bd9-c69f-4d90-b819-27032eb86f21}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>startOffset</value>
+		</property>
+		<property name="amount">
+			<value>29.5</value>
+		</property>
+	</object>
 </objects>

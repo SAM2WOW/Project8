@@ -67,7 +67,7 @@
 			<value>true</value>
 		</property>
 		<property name="maximumDistance">
-			<value>100</value>
+			<value>600</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{f59dcc2b-c1f8-49c7-be91-82d32160c494}" />
@@ -99,6 +99,7 @@
 		<relationship name="sounds">
 			<destination>{7705c6eb-745c-4f0e-a129-b64dc9939ea5}</destination>
 			<destination>{a77d7440-238d-4c69-8852-04d9f01c7c8e}</destination>
+			<destination>{f70bb20f-27fa-4542-b6dc-fc59e57a17ee}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{5759d1cb-75df-405e-972b-20fb332e2128}">
@@ -117,7 +118,7 @@
 	<object class="MixerBusPanner" id="{73cf1bec-692d-44bc-b569-5eb815592158}" />
 	<object class="SingleSound" id="{7705c6eb-745c-4f0e-a129-b64dc9939ea5}">
 		<property name="volume">
-			<value>-10</value>
+			<value>-8</value>
 		</property>
 		<property name="pitch">
 			<value>-4</value>
@@ -155,6 +156,21 @@
 			<destination>{248c877c-5566-4b50-9a0d-8898d05a12b5}</destination>
 		</relationship>
 	</object>
+	<object class="SingleSound" id="{f70bb20f-27fa-4542-b6dc-fc59e57a17ee}">
+		<property name="volume">
+			<value>-9</value>
+		</property>
+		<property name="pitch">
+			<value>2.4000001</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{fbcb4028-17fe-40b7-af20-9eb6ffc9f530}</destination>
+			<destination>{b1a9c910-7f8c-4598-ad31-52f45840d5dc}</destination>
+		</relationship>
+		<relationship name="audioFile">
+			<destination>{20418a75-1573-454b-b90e-8597430f065d}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{0a4e785c-d2ed-4ff3-a218-00da8d132a85}" />
 	<object class="MixerBusFader" id="{22bbddc8-9037-4b78-be00-6564ea418414}" />
 	<object class="SpatialiserEffect" id="{3582b287-d21d-42b3-9faf-3b046e862fd6}">
@@ -162,7 +178,7 @@
 			<value>1</value>
 		</property>
 		<property name="maximumDistance">
-			<value>100</value>
+			<value>600</value>
 		</property>
 	</object>
 	<object class="SFXReverbEffect" id="{7d45e7dc-095f-43dc-937d-5b06d844aa0d}">
@@ -271,4 +287,20 @@
 	<object class="SilenceSound" id="{6d341bcb-d43a-4ef7-8fb8-73c85d928c3d}" />
 	<object class="SilenceSound" id="{620f5d9a-2d28-4938-bd50-70f94c04bd40}" />
 	<object class="SilenceSound" id="{248c877c-5566-4b50-9a0d-8898d05a12b5}" />
+	<object class="RandomizerModulator" id="{fbcb4028-17fe-40b7-af20-9eb6ffc9f530}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>10</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{b1a9c910-7f8c-4598-ad31-52f45840d5dc}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>7</value>
+		</property>
+	</object>
 </objects>
