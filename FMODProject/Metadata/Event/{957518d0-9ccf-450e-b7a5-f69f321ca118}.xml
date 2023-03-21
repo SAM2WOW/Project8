@@ -35,6 +35,9 @@
 		<relationship name="timeline">
 			<destination>{f6810981-ff3c-42f3-ac87-6d46669e23c7}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{d18de8eb-b846-4f69-ba0e-b7bd69791f7c}</destination>
+		</relationship>
 		<relationship name="banks">
 			<destination>{1fd4296a-4eaf-4cdd-97b3-51617ec8a8bf}</destination>
 		</relationship>
@@ -102,6 +105,11 @@
 			<destination>{6eef459c-38ef-40dc-a5e8-fa5bed04262e}</destination>
 			<destination>{0090e215-74fe-4884-a729-aa81ab1d7c82}</destination>
 			<destination>{42045714-c6e6-40aa-a46e-6a8e26c30f70}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterProxy" id="{d18de8eb-b846-4f69-ba0e-b7bd69791f7c}">
+		<relationship name="preset">
+			<destination>{b35d4c70-64d2-4904-88e8-055e98359649}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{9a591b46-9b5f-4183-8fd6-2385bc0a19e4}">
@@ -300,7 +308,7 @@
 			<destination>{0090e215-74fe-4884-a729-aa81ab1d7c82}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
-			<destination>{44429b26-1ebe-42b1-ad35-133f1def29f5}</destination>
+			<destination>{4ea418c2-2419-4162-ba5d-4a695cca896f}</destination>
 		</relationship>
 	</object>
 	<object class="ADSRModulator" id="{87146dfa-0b96-475b-90a0-8e99cb27dc89}">
@@ -314,7 +322,10 @@
 			<value>4000</value>
 		</property>
 		<property name="releaseTime">
-			<value>0</value>
+			<value>4000</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{911eb8df-10ed-4c88-b072-32c1bd8d560e}">
@@ -396,10 +407,16 @@
 			<destination>{372257e5-a21c-4da3-bece-0e86a46cafab}</destination>
 		</relationship>
 	</object>
-	<object class="EventCondition" id="{44429b26-1ebe-42b1-ad35-133f1def29f5}">
-		<property name="eventState">
+	<object class="ParameterCondition" id="{4ea418c2-2419-4162-ba5d-4a695cca896f}">
+		<property name="minimum">
 			<value>1</value>
 		</property>
+		<property name="maximum">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{b35d4c70-64d2-4904-88e8-055e98359649}</destination>
+		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{6810fe6e-02b1-4cbc-8b07-7b3256296a29}" />
 	<object class="AutomationPoint" id="{d872958c-9881-4ef3-bebb-9e86785bde45}">
