@@ -111,7 +111,6 @@
 		<relationship name="effects">
 			<destination>{5fe83df6-8212-4a5c-aa6f-4ad9dfed31e7}</destination>
 			<destination>{4e3ff422-bd26-42d4-88e0-2e1c661e0497}</destination>
-			<destination>{ec5a8cf4-14bc-4e45-b5c3-43ae010abfb3}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{94383925-21b2-4ede-a556-38be9ce2c72c}" />
@@ -143,7 +142,6 @@
 			<value>300</value>
 		</property>
 	</object>
-	<object class="SFXReverbEffect" id="{ec5a8cf4-14bc-4e45-b5c3-43ae010abfb3}" />
 	<object class="RandomizerModulator" id="{73193fdb-d516-4dd9-9974-8a089727146d}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>

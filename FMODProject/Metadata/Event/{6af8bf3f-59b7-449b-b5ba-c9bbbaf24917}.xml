@@ -8,7 +8,7 @@
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{38985bf6-5285-46df-ba78-d4c9c6ab4fbe}</destination>
+			<destination>{7a0a0c32-d08c-4628-a7c3-f509a7f57b91}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{f31310dd-0e60-4a2b-be7c-670adfb75cda}</destination>
@@ -115,7 +115,6 @@
 		<relationship name="effects">
 			<destination>{4b0e077a-3641-484a-b6b3-ca1969d1389f}</destination>
 			<destination>{5c156109-06ca-406e-ad99-f14eaa93f123}</destination>
-			<destination>{06161672-5f1d-4dfe-9dda-757d8954b72c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d232b7fd-9a15-478e-839a-805ca8c66dd9}" />
@@ -142,11 +141,6 @@
 		</property>
 		<property name="maximumDistance">
 			<value>100</value>
-		</property>
-	</object>
-	<object class="SFXReverbEffect" id="{06161672-5f1d-4dfe-9dda-757d8954b72c}">
-		<property name="decayTime">
-			<value>2600</value>
 		</property>
 	</object>
 	<object class="RandomizerModulator" id="{c4ae2a25-9c23-4136-8f48-43a61d995373}">

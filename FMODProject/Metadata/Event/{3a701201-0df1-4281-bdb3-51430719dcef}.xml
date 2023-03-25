@@ -115,7 +115,6 @@
 		<relationship name="effects">
 			<destination>{59753496-9fad-49f6-a646-ff97a4e3b094}</destination>
 			<destination>{7764a6f5-ef62-466f-bc64-6af02ce107e1}</destination>
-			<destination>{bf6c50e6-a02a-4048-863c-ac2a77050830}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{76462c62-c9aa-44c7-bf48-c1f42484fd96}" />
@@ -216,14 +215,6 @@
 		</property>
 		<property name="maximumDistance">
 			<value>300</value>
-		</property>
-	</object>
-	<object class="SFXReverbEffect" id="{bf6c50e6-a02a-4048-863c-ac2a77050830}">
-		<property name="decayTime">
-			<value>3100</value>
-		</property>
-		<property name="wetLevel">
-			<value>-10</value>
 		</property>
 	</object>
 	<object class="RandomizerModulator" id="{7eff6dab-f565-4d21-a133-de148663372c}">

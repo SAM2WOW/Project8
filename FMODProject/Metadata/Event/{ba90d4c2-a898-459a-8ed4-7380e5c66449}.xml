@@ -100,7 +100,6 @@
 		<relationship name="effects">
 			<destination>{44725c3a-bb77-42b3-a9b4-e8f8c8928288}</destination>
 			<destination>{f85500a8-3475-46b4-b3aa-ce5026393d52}</destination>
-			<destination>{0e711b63-8722-480b-9fcb-91757d5296c0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{18b9bc9f-5b89-4de0-b640-dc34ec778f79}" />
@@ -116,5 +115,4 @@
 			<value>1</value>
 		</property>
 	</object>
-	<object class="SFXReverbEffect" id="{0e711b63-8722-480b-9fcb-91757d5296c0}" />
 </objects>

@@ -110,7 +110,6 @@
 	<object class="MixerBusEffectChain" id="{edf7293d-589c-4521-a612-9c63be88a409}">
 		<relationship name="effects">
 			<destination>{1b5aab90-0ae8-4518-ae4f-c0b75db4a444}</destination>
-			<destination>{347e71f7-6796-4bd8-981b-e2ea72d79dec}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2fb4edc0-74ae-49f7-95c3-9770c1bda594}" />
@@ -128,14 +127,6 @@
 	</object>
 	<object class="MixerBusFader" id="{3d47beb2-6cd4-4ca1-9702-9c383a77f918}" />
 	<object class="MixerBusFader" id="{1b5aab90-0ae8-4518-ae4f-c0b75db4a444}" />
-	<object class="SFXReverbEffect" id="{347e71f7-6796-4bd8-981b-e2ea72d79dec}">
-		<property name="decayTime">
-			<value>4000</value>
-		</property>
-		<property name="wetLevel">
-			<value>-4</value>
-		</property>
-	</object>
 	<object class="RandomizerModulator" id="{fa97fcd8-fe5f-4dbe-8f37-8c2ad01a203a}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>
