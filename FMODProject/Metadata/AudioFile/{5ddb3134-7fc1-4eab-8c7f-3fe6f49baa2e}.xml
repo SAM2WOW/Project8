@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{5ddb3134-7fc1-4eab-8c7f-3fe6f49baa2e}">
 		<property name="assetPath">
-			<value>Sounds/Spaceship.wav</value>
+			<value>BGM/Spaceship.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
