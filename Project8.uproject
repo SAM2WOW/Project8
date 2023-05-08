@@ -61,5 +61,10 @@
 			"Name": "ProceduralDungeon",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows"
 	]
 }
