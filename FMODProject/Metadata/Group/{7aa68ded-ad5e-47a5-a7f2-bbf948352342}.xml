@@ -19,6 +19,7 @@
 			<destination>{1147eb32-0d9a-440d-a00d-6270088dbac3}</destination>
 			<destination>{a42f74ed-eb73-4c9a-9658-c5bf48b0eceb}</destination>
 			<destination>{25f9d0a6-d8d4-4cd2-8a52-e08d0bc0715f}</destination>
+			<destination>{54587aa1-d177-47d6-81b0-c5dbada3e7ac}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6de55cdb-bd61-4ea7-9edd-3a532a14df09}" />
@@ -32,4 +33,5 @@
 			<value>-4</value>
 		</property>
 	</object>
+	<object class="Sidechain" id="{54587aa1-d177-47d6-81b0-c5dbada3e7ac}" />
 </objects>
