@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{91c0fb3a-b0a7-4774-81e6-de4f5a082d08}">
 		<property name="name">
-			<value>Dash</value>
+			<value>Dash_Old</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{38985bf6-5285-46df-ba78-d4c9c6ab4fbe}</destination>
+			<destination>{16aaaa90-2012-4454-96f6-9585f156b5b7}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{8c4ca452-64af-4cfd-a3c9-9149716fada1}</destination>
