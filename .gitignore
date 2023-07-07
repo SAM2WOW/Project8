@@ -73,3 +73,5 @@ DerivedDataCache/*
 
 # ignore plugin folder
 Plugins/*
+Plugins_Old/*
+Plugins_New/*
