@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fbc03200-834c-46fa-8f04-25ff9e04aaef}">
+		<property name="assetPath">
+			<value>BGM/Battle_drum.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>105.004875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7d6f2381-4a5a-44d0-9a75-054e3cf1a1b7}</destination>
+		</relationship>
+	</object>
+</objects>
